@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	background-color:goldenrod;
+	color: white;
+}
+body {
+	background-image: url();
+	background-color: bisque;
+	width: 1920px; 
+	background-repeat: no-repeat;
+}
+.fs-16 {
+	font-size: 16px;
+}
+.fs-24 {
+	font-size: 24px;
+}
+.text-red {
+	color: red;
+}
+.text-white {
+	color: white;
+}
+.center-text {
+	text-align: center;
+	list-style-position:inherit;
+	text-decoration: none;
+}
+/*table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+}
+/* Deneyim Amaçlı 
+li[id=x] {
+  font-size: 250%
+}*/
+li[class] {
+    font-size: 200%;
+}
+li[class="a"] {
+    background-color: yellow;
+}
+li[class~="a"] {
+    color: blue;
+}
+.art {
+  width: 1250px;
+  height: 300px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+.box {
+padding: 20px;
+margin-left: 250px;
+margin-right: 1px;
+width: 1300px;
+height: 500px;
+align-self: center;
+border: 3px solid black;
+align-content: center
+}
+/*table, th, td {
+border: 1px solid black;
+}*/
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+footer {
+	background-color:lightpink;
+}
+a {
+	text-decoration:none;
+}
+    
